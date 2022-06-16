@@ -1,3 +1,3 @@
 First React Project.
 
-Weather app
+Weather app for https://devchallenges.io/
